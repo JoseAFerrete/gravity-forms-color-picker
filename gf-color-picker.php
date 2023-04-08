@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: GForms Color Picker
+Plugin Name: Color Picker for Gravity Forms
 Version: 1.2.0
 Description: Adds new color picker field to Gravity Forms
 Author: Jose Antonio Ferrete
