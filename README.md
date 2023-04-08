@@ -1,4 +1,4 @@
-# Gravity Forms Color Picker
+# Color Picker for Gravity Forms
 This Gravity Forms addon includes a color picker field in the form editor, under "Advanced fields".
 This could be the simplest solution possible, so feel free to re-style the field to your needs.
 
