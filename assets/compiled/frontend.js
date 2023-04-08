@@ -1,0 +1,1 @@
+(()=>{"use strict";var p={p:"/wp-content/plugins/gf-color-picker/assets/compiled/"};p.p})();
