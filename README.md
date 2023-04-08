@@ -25,3 +25,6 @@ When editing a form, a new Color field will appear under the "Advanced fields" s
 ![image](https://user-images.githubusercontent.com/43861978/230719354-1e26acfb-169d-4d47-83c0-37b8b7ab960e.png)
 
 You can set the default value as a HEX color.
+
+## Contribute
+You can say thank you by [buying me a coffee](https://www.buymeacoffee.com/jsaferrete)!
